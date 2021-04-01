@@ -1,0 +1,16 @@
+{
+  "name": "sugarizer-2fa",
+  "version": "1.0.0",
+  "description": "demo of actual project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ricknjacky",
+  "license": "ISC",
+  "dependencies": {
+    "@levminer/speakeasy": "^1.1.0",
+    "express": "^4.17.1",
+    "qrcode": "^1.4.4"
+  }
+}
